@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UgurcanGursen</string>
+    <string name="textView1">Uğurcan Gürşen</string>
+    <string name="button3">Değiştir</string>
+    <string name="button4">Bitir</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+</resources>
